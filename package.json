@@ -1,0 +1,12 @@
+{
+  "name": "taller-api-empleados",
+  "version": "1.0.0",
+  "description": "Taller Practico: API REST de Empleados con Express.js",
+  "main": "api-empleados.js",
+  "scripts": {
+    "start": "node api-empleados.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
